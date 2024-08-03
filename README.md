@@ -28,6 +28,7 @@ Datasets are from `MatBench` and `Matminer`. After processing, we can get datase
 
 
 ## Acknowledgement
+Datasets in this paper are from MatBench and Matminer.
 ```
 @article{dunn2020benchmarking,
   title={Benchmarking materials property prediction methods: the Matbench test set and Automatminer reference algorithm},
@@ -50,7 +51,7 @@ Datasets are from `MatBench` and `Matminer`. After processing, we can get datase
   publisher={Elsevier}
 }
 ```
-
+Experiments in this paper are based on a composition-based network (Roost) and a structure-based network (ALIGNN). You can check source codes here: [Roost](https://github.com/CompRhys/roost/tree/main/data/datasets/roost) and [ALIGNN](https://github.com/usnistgov/alignn)
 ## Cite our work
 ```
 
@@ -58,4 +59,4 @@ Datasets are from `MatBench` and `Matminer`. After processing, we can get datase
 ```
 
 # Contact
-If you have any problem, feel free to contact us via [nihang@email.sc.edu](mailto:nihang@email.sc.edu).
+If you have any problems, please feel free to reach out to us at [nihang@email.sc.edu](mailto:nihang@email.sc.edu).
