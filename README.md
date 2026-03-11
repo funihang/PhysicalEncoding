@@ -54,7 +54,15 @@ Datasets in this paper are from MatBench and Matminer.
 Experiments in this paper are based on a composition-based network (Roost) and a structure-based network (ALIGNN). You can check source codes here: [Roost](https://github.com/CompRhys/roost/tree/main/data/datasets/roost) and [ALIGNN](https://github.com/usnistgov/alignn)
 ## Cite our work
 ```
-
+@article{fu2025physical,
+  title={Physical encoding improves ood performance in deep learning materials property prediction},
+  author={Fu, Nihang and Omee, Sadman Sadeed and Hu, Jianjun},
+  journal={Computational Materials Science},
+  volume={248},
+  pages={113603},
+  year={2025},
+  publisher={Elsevier}
+}
 
 ```
 
